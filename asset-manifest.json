@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fav_Package/static/css/main.e66b19ec.css",
+    "main.js": "/fav_Package/static/js/main.ebec2791.js",
+    "index.html": "/fav_Package/index.html",
+    "main.e66b19ec.css.map": "/fav_Package/static/css/main.e66b19ec.css.map",
+    "main.ebec2791.js.map": "/fav_Package/static/js/main.ebec2791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e66b19ec.css",
+    "static/js/main.ebec2791.js"
+  ]
+}
